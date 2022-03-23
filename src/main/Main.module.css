@@ -1,0 +1,15 @@
+.mainBlock {
+    background-color: #ef7575;
+    height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+
+}
+.container{
+    display: flex;
+    width: 80%;
+    border: 1px solid;
+}
+.mainText{
+    width: 300px;
+}
