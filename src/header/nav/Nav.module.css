@@ -1,0 +1,9 @@
+.nav {
+    border: 1px solid;
+    display: inline-block;
+    margin-top: 3%;
+}
+
+.nav a {
+    padding-left: 4px;
+}
