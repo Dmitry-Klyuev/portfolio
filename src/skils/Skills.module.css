@@ -1,0 +1,18 @@
+.skillsBlock{
+    background-color: yellow;
+    height: 100vh;
+
+}
+.skillsWrapper{
+    border: 1px solid;
+    width: 80%;
+    margin: 0 auto;
+}
+.items{
+    min-height: 700px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}

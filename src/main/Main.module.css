@@ -1,15 +1,32 @@
-.mainBlock {
-    background-color: #ef7575;
+.mainBlock{
+    background-color: black;
     height: calc(100vh - 80px);
     display: flex;
     justify-content: center;
-
 }
-.container{
-    display: flex;
+
+.contentWrapper{
     width: 80%;
-    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f5c3f5;
+}
+@media (max-width: 800px){
+    .contentWrapper {
+        width: 90%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }
 .mainText{
     width: 300px;
+    background-color: aliceblue;
+}
+
+.mainPhoto{
+    width: 300px;
+    height: 400px;
+    background-color: purple;
 }

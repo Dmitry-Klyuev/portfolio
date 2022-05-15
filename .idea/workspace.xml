@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ce71c1-29fb-4de8-bcb4-1276dcd1517d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/styles/Container.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skils/Skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skils/Skills.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skils/skillItem/SkillItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/nav/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/nav/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,7 +83,10 @@
       <workItem from="1631297074570" duration="650000" />
       <workItem from="1631297753429" duration="2788000" />
       <workItem from="1647976662914" duration="3096000" />
-      <workItem from="1648054572288" duration="6092000" />
+      <workItem from="1648054572288" duration="6321000" />
+      <workItem from="1648147792624" duration="25000" />
+      <workItem from="1652602428139" duration="6346000" />
+      <workItem from="1652614271770" duration="12593000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1648054678622</created>
@@ -89,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648054678622</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add section 2 and typing effect">
+      <created>1648070145366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648070145366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +113,8 @@
       <path value="$PROJECT_DIR$/portfolio-react" />
     </ignored-roots>
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="add section 2 and typing effect" />
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
   </component>
 </project>
