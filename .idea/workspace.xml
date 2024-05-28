@@ -5,17 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/contact/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/resume/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/services/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/work/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PageTransition.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,20 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dmitry/WebStormProjects/portfolio-app&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/dmitry/WebStormProjects/portfolio-app/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dmitry/WebStormProjects/portfolio-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MTProjectTreeConfigurable",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,7 +76,7 @@
       <updated>1716542886380</updated>
       <workItem from="1716542887567" duration="356000" />
       <workItem from="1716543732293" duration="3729000" />
-      <workItem from="1716717841053" duration="793000" />
+      <workItem from="1716717841053" duration="13738000" />
     </task>
     <servers />
   </component>
