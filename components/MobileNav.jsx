@@ -24,9 +24,8 @@ export const MobileNav = () => {
 
                 </div>
                 {links.map((link) => {
-                    return <div className={'text-end'}>
-                        <Link key={link.name}
-                              href={link.path}
+                    return <div className={'text-end'} key={link.name}>
+                        <Link href={link.path}
                               className={`${pathName === link.path && 'text-accent border-b-2 border-accent '}`}
                         >
                             {link.name}

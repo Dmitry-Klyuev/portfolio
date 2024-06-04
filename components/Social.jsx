@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import {FaGithub, FaInstagram, FaLinkedinIn, FaTwitter} from "react-icons/fa";
-import {motion} from 'framer-motion'
 
 const socials = [
     {icon: <FaGithub/>, path: ''},
