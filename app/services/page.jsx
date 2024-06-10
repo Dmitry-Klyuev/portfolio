@@ -6,26 +6,26 @@ import {BsArrowDownRight} from "react-icons/bs";
 
 const services = [
     {
-        num: 1,
+        num: '01',
         title: 'Frontend Developer',
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
         href: ''
     },
     {
-        num: 2,
+        num: '02',
         title: 'Backend Developer',
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
         href: ''
     },
     {
-        num: 3,
+        num: '03',
         title: 'SEO',
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
         href: ''
 
     },
     {
-        num: 4,
+        num: '04',
         title: 'UI/UX Design',
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
         href: ''
@@ -50,13 +50,13 @@ const Services = () => {
                                     className={'flex flex-1 flex-col justify-center gap-6 group'}
                             >
                             <div className={'flex justify-between items-center'}>
-                                <div>{el.num}</div>
-                                <Link href={el.href}>
-                                    <BsArrowDownRight/>
+                                <div className={'text-5xl font-extrabold text-outline text-transparent group-hover:text-outline-hover transition-all duration-500'}>{el.num}</div>
+                                <Link href={el.href} className={'w-[70px] h-[70px] rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45'}>
+                                    <BsArrowDownRight className={'text-primary text-3xl'}/>
                                 </Link>
                             </div>
-                            <h2>{el.title}</h2>
-                            <p>{el.description}</p>
+                            <h2 className={'text-[42px] font-bold float-none text-white group-hover:text-accent transition-all duration-500'}>{el.title}</h2>
+                            <p className={'text-white/60'}>{el.description}</p>
                             <div className={'border-b border-white/20 w-full'}></div>
                         </div>
                     })}

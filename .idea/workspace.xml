@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="finish first section">
+    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="section services">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/services/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Stats.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Stats.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,8 @@
       <workItem from="1716543732293" duration="3729000" />
       <workItem from="1716717841053" duration="29867000" />
       <workItem from="1717264802066" duration="50000" />
-      <workItem from="1717264859872" duration="31928000" />
+      <workItem from="1717264859872" duration="33797000" />
+      <workItem from="1717959250778" duration="6030000" />
     </task>
     <task id="LOCAL-00001" summary="add menu and framer-motion">
       <option name="closed" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717533890767</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="section services">
+      <option name="closed" value="true" />
+      <created>1717613838932</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717613838932</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +142,7 @@
     <MESSAGE value="add first section" />
     <MESSAGE value="add photo and adaptive" />
     <MESSAGE value="finish first section" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish first section" />
+    <MESSAGE value="section services" />
+    <option name="LAST_COMMIT_MESSAGE" value="section services" />
   </component>
 </project>
