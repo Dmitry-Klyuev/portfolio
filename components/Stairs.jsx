@@ -33,7 +33,7 @@ export const Stairs = () => {
                                        delay: reverseIndex(index) * 0.1
 
                                    }}
-                                   className={'w-full h-full bg-white relative'}
+                                   className={'w-full h-full bg-accent relative'}
                 />
             })}
         </>
