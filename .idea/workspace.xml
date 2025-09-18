@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="finish portpholio skin">
+    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="finish portpholio skin fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/contact/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/StairTransition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/StairTransition.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,7 @@
       <workItem from="1717959250778" duration="15762000" />
       <workItem from="1718549048817" duration="6000" />
       <workItem from="1718549063995" duration="680000" />
-      <workItem from="1758217074216" duration="6589000" />
+      <workItem from="1758217074216" duration="7543000" />
     </task>
     <task id="LOCAL-00001" summary="add menu and framer-motion">
       <option name="closed" value="true" />
@@ -165,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758223853876</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finish portpholio skin fix">
+      <option name="closed" value="true" />
+      <created>1758224752236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758224752236</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +212,7 @@
     <MESSAGE value="section services" />
     <MESSAGE value="finish section services" />
     <MESSAGE value="finish portpholio skin" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish portpholio skin" />
+    <MESSAGE value="finish portpholio skin fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish portpholio skin fix" />
   </component>
 </project>

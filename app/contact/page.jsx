@@ -3,32 +3,24 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "@/components/ui/select";
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
-import { SelectGroup, SelectLabel } from "@radix-ui/react-select";
 
 const info = [
   {
     icon: <FaPhoneAlt />,
     title: 'Phone',
-    description: '(+88) 017 07 07 07 07',
+    description: '(+375) 29 616 96 96',
   },
   {
     icon: <FaEnvelope />,
     title: 'Email',
-    description: 'email@email.com',
+    description: 'i6169696@gmail.com',
   },
   {
     icon: <FaMapMarkerAlt />,
     title: 'Address',
-    description: 'Planet Earth, No Flat Earth, Calculate the Geo Location',
+    description: 'Minsk, Belarus',
   },
 ];
 
@@ -57,29 +49,16 @@ const Contact = () => {
               </p>
               {/** Input */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <Input name="firstname" placeholder="First Name" />
-                <Input name="lastname" placeholder="Last Name" />
-                <Input name="email" placeholder="Email address" />
-                <Input name="phone" placeholder="Phone number" />
+                <Input name="firstname" placeholder="First Name" className="text-black"/>
+                <Input name="lastname" placeholder="Last Name" className="text-black"/>
+                <Input name="email" placeholder="Email address" className="text-black"/>
+                <Input name="phone" placeholder="Phone number" className="text-black"/>
               </div>
-              {/** Select */}
-              <Select>
-                <SelectTrigger className="w-full">
-                  <SelectValue placeholder="Select a service" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectGroup>
-                    <SelectLabel>Select a service</SelectLabel>
-                    <SelectItem value="web">Web Development</SelectItem>
-                    <SelectItem value="ui">UI/UX Design</SelectItem>
-                    <SelectItem value="logo">Logo Design</SelectItem>
-                  </SelectGroup>
-                </SelectContent>
-              </Select>
               {/** textarea */}
               <Textarea
-                className="h-[200px]"
+                className="h-[200px] text-black"
                 placeholder="Type your message here."
+
               />
               {/** Button */}
               <Button size="lg" className="max-w-40">
