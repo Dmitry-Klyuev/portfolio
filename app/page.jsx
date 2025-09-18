@@ -11,7 +11,7 @@ export default function Home() {
                 <div className={'flex flex-col xl:flex-row items-center justify-between'}>
                     <div className={'text-center xl:text-left order-2 xl:order-none'}>
                         <span className={'text-xl'}>Fullstack web developer</span>
-                        <h1 className={'h1'}>Hello, I'm <br/>
+                        <h1 className={'h1'}>Hello, I&apos;m <br/>
                             <span className={'text-accent'}>Dmitry Klyuev</span>
                         </h1>
                         <p className={'max-w-[500px] mb-9 text-white/80'}>

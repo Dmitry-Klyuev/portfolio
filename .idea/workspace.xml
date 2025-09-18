@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="finish section services">
-      <change afterPath="$PROJECT_DIR$/public/assets/photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/badge.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/cap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/bootstrap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/css3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/html5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/javascript.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/nextjs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/php.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/scroll.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume/icons/tailwind.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/css.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/html.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/js.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skills/tailwind.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/work/thumb1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/work/thumb2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/work/thumb3.png" afterDir="false" />
+    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="finish portpholio skin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contact/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resume/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/resume/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/work/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/work/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PageTransition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageTransition.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Stairs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Stairs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/tabs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/tabs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +99,7 @@
       <workItem from="1717959250778" duration="15762000" />
       <workItem from="1718549048817" duration="6000" />
       <workItem from="1718549063995" duration="680000" />
-      <workItem from="1758217074216" duration="5488000" />
+      <workItem from="1758217074216" duration="6589000" />
     </task>
     <task id="LOCAL-00001" summary="add menu and framer-motion">
       <option name="closed" value="true" />
@@ -187,11 +157,41 @@
       <option name="project" value="LOCAL" />
       <updated>1718022762090</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finish portpholio skin">
+      <option name="closed" value="true" />
+      <created>1758223853876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758223853876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c60e1e5c-7165-4929-884c-0ea078a3f7e5" value="TOOL_WINDOW" />
+        <entry key="59cecc55-2ee9-4be7-877f-ad433cf0cb41" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="59cecc55-2ee9-4be7-877f-ad433cf0cb41">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c60e1e5c-7165-4929-884c-0ea078a3f7e5">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add menu and framer-motion" />
@@ -201,6 +201,7 @@
     <MESSAGE value="finish first section" />
     <MESSAGE value="section services" />
     <MESSAGE value="finish section services" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish section services" />
+    <MESSAGE value="finish portpholio skin" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish portpholio skin" />
   </component>
 </project>
