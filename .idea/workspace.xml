@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="edit contact form">
+    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="refactor all page duration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/contact/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/contact/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/resume/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/resume/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/services/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/services/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/work/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/work/page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/PageTransition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PageTransition.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Photo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Photo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Social.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Social.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +103,7 @@
       <workItem from="1717959250778" duration="15762000" />
       <workItem from="1718549048817" duration="6000" />
       <workItem from="1718549063995" duration="680000" />
-      <workItem from="1758217074216" duration="8617000" />
+      <workItem from="1758217074216" duration="9745000" />
     </task>
     <task id="LOCAL-00001" summary="add menu and framer-motion">
       <option name="closed" value="true" />
@@ -191,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758225828018</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="refactor all page duration">
+      <option name="closed" value="true" />
+      <created>1758226725261</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758226725261</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +232,7 @@
     <MESSAGE value="finish portpholio skin" />
     <MESSAGE value="finish portpholio skin fix" />
     <MESSAGE value="edit contact form" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit contact form" />
+    <MESSAGE value="refactor all page duration" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor all page duration" />
   </component>
 </project>
