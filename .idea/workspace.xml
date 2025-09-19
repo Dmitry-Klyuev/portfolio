@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="edit service page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6e749058-8e84-4853-9bed-8792c98b9899" name="Changes" comment="edit education page">
       <change beforePath="$PROJECT_DIR$/app/resume/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/resume/page.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +102,7 @@
       <workItem from="1717959250778" duration="15762000" />
       <workItem from="1718549048817" duration="6000" />
       <workItem from="1718549063995" duration="680000" />
-      <workItem from="1758217074216" duration="13783000" />
+      <workItem from="1758217074216" duration="14125000" />
     </task>
     <task id="LOCAL-00001" summary="add menu and framer-motion">
       <option name="closed" value="true" />
@@ -217,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758280784370</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="edit education page">
+      <option name="closed" value="true" />
+      <created>1758284053119</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1758284053119</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +267,7 @@
     <MESSAGE value="fix home page links" />
     <MESSAGE value="fix mobile menu" />
     <MESSAGE value="edit service page" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit service page" />
+    <MESSAGE value="edit education page" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit education page" />
   </component>
 </project>

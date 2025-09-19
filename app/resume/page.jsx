@@ -17,14 +17,15 @@ import {
   FaJs,
   FaReact,
   FaNodeJs,
-  FaJava,
+  FaPhp,
+  FaLaravel,
+  FaDatabase
+
 } from "react-icons/fa";
 
 import {
   SiTailwindcss,
   SiNextdotjs,
-  SiCplusplus,
-  SiUnrealengine,
   SiExpress,
   SiShadcnui,
 } from "react-icons/si";
@@ -109,6 +110,18 @@ const skills = {
       name: "Next.Js",
     },
     {
+      icon: <FaPhp/>,
+      name: "PHP",
+    },
+    {
+      icon: <FaLaravel/>,
+      name: "Laravel",
+    },
+    {
+      icon: <FaDatabase/>,
+      name: "MySQL",
+    },
+    {
       icon: <SiShadcnui/>,
       name: "ShadCN",
     },
@@ -116,6 +129,7 @@ const skills = {
       icon: <SiTailwindcss/>,
       name: "Tailwind css",
     },
+
   ],
 };
 
