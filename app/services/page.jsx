@@ -8,29 +8,22 @@ const services = [
     {
         num: '01',
         title: 'Frontend Developer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
+        description: 'I create intuitive, responsive, and high-performance web interfaces that deliver a flawless user experience. My expertise covers the entire development cycle — from concept and prototyping to implementation and optimization.',
         href: ''
     },
     {
         num: '02',
         title: 'Backend Developer',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
+        description: 'I develop scalable and secure server applications that ensure stable frontend operation and uninterrupted data processing. I specialize in creating efficient server architecture and optimizing request handling processes.',
         href: ''
     },
     {
         num: '03',
-        title: 'SEO',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
+        title: 'Full-Cycle Development',
+        description: 'I offer comprehensive solutions for building fully functional web applications — from architecture design and interface development to server-side implementation and production deployment.',
         href: ''
 
     },
-    {
-        num: '04',
-        title: 'UI/UX Design',
-        description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consectetur cumque deleniti dolor, doloribus, esse exercitationem explicab',
-        href: ''
-
-    }
 
 ]
 
